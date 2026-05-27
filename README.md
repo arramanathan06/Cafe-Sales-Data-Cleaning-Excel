@@ -70,3 +70,22 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-clean
 
 \- Data Standardisation
 
+
+**Project Screenshots**
+
+
+Before Cleaning
+
+<img width="1837" height="757" alt="Before_cleaning" src="https://github.com/user-attachments/assets/c5830b5e-cd7d-4fcf-bb72-c6d7690b7194" />
+
+
+After Cleaning
+
+<img width="1717" height="752" alt="After_cleaning" src="https://github.com/user-attachments/assets/9374ee0b-d257-4f34-b536-44a083fbcb08" />
+
+**Outcome**
+
+Produced a cleaned and analysis-ready cafe sales dataset by handling missing values, correcting invalid entries and standardising data formats.
+
+
+
